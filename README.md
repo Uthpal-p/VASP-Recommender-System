@@ -5,6 +5,7 @@ A Tensor-flow implementation of a Recommender System which takes in a sparse use
 It is inspired by the model described in the publication: 
 [Deep Variational Autoencoder with Shallow Parallel Path for Top-N Recommendation (VASP) ](https://www.researchgate.net/publication/354505790_Deep_Variational_Autoencoder_with_Shallow_Parallel_Path_for_Top-N_Recommendation_VASP)
 It is recommended to read the above paper for better unerstanding of the implementation. 
+
 Note: A closed-form solution of EASE is implemented here instead of the Neural EASE model. 
 
 
